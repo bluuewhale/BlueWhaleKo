@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there wave
+### I’m currently working on Devops and Backend
+### I'm learning AWS, Java/Spring, Databases and so on! seedling
+### You can find my blog [here](https://velog.io/@koo8624)
+### I love cats :octocat:  and whales 🐳 :) 
 
 <!--
 **BlueWhaleKo/BlueWhaleKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
