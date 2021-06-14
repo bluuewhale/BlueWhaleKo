@@ -1,7 +1,8 @@
 ### Hi there 👋
+
 I’m currently working on Devops and Backend
 
-I'm learning AWS, Java/Spring, Databases and so on! seedling
+I'm learning AWS, Java/Spring, Databases and so on! 🌱
 
 You can find my blog [here](https://velog.io/@koo8624) 🐦
 
