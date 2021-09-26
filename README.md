@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I’m currently working on Devops and Backend
+I’m currently working as a Backend(Devops) Engineer!
 
-I'm learning AWS, Java/Spring, Databases and so on! 🌱
+I'm also learning node.js and Frontend frameworks(React, Next.js) for hobby! 🌱
 
 You can find my blog [here](https://velog.io/@koo8624) 🐦
-
-I love cats :octocat:  and whales 🐳 :) 
 
 <!--
 **BlueWhaleKo/BlueWhaleKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
