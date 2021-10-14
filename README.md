@@ -1,9 +1,8 @@
-### Hi there 👋
+## 👋 Hi there 
 
 I’m currently working as a Backend(Devops) Engineer!
 
-I'm also learning node.js and Frontend frameworks(React, Next.js) for hobby! 🌱
-
+## Blog
 You can find my blog [here](https://velog.io/@koo8624) 🐦
 
 ### Latest Post
