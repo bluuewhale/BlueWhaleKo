@@ -1,6 +1,6 @@
 ## 👋 Hi there 
 
-- Software Engineer!
+- Software Engineer
 - Tech enthusiast
 - Cat lover
 
